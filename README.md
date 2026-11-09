@@ -1,2 +1,1 @@
-# Project X - Course Y
-Write an overview of this repo and your project here.
+# Global Video Game Sales - Testing for market similarities between different cultural markets
